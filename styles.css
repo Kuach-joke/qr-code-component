@@ -1,0 +1,90 @@
+:root {
+  --bg: #d5e1ef;
+  --card-bg: #ffffff;
+  --title: #1f314f;
+  --body: #68778d;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  min-height: 100%;
+}
+
+body {
+  font-family: "Outfit", "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.desktop-layout {
+  min-height: 100vh;
+  width: 100%;
+  display: grid;
+  place-items: center;
+  padding: 24px;
+  background-color: var(--bg);
+}
+
+.desktop-layout .content {
+  width: min(100%, 320px);
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  padding: 16px;
+  background-color: var(--card-bg);
+  border-radius: 20px;
+  box-shadow: 0 10px 25px rgba(31, 49, 79, 0.08);
+}
+
+.desktop-layout .QR-image {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+
+.desktop-layout .text {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  padding: 0 16px 24px;
+  text-align: center;
+}
+
+.desktop-layout .improve-your-front-e,
+.desktop-layout .scan-the-QR-code-to {
+  margin: 0;
+}
+
+.desktop-layout .improve-your-front-e {
+  color: var(--title);
+  font-size: 22px;
+  line-height: 1.2;
+  font-weight: 700;
+  letter-spacing: 0;
+}
+
+.desktop-layout .scan-the-QR-code-to {
+  color: var(--body);
+  font-size: 15px;
+  line-height: 1.4;
+  font-weight: 400;
+  letter-spacing: 0.2px;
+}
+
+@media (max-width: 360px) {
+  .desktop-layout {
+    padding: 16px;
+  }
+
+  .desktop-layout .text {
+    padding: 0 10px 18px;
+  }
+
+  .desktop-layout .improve-your-front-e {
+    font-size: 20px;
+  }
+}
