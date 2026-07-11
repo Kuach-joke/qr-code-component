@@ -26,7 +26,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: _Coming soon — the project has not yet been submitted to Frontend Mentor._
-- Live Site URL: _Coming soon — the project has not yet been deployed._
+- Live Site URL: https://kuach-joke.github.io/qr-code-component/
 
 ## My process
 
