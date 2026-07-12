@@ -25,7 +25,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: _Coming soon — the project has not yet been submitted to Frontend Mentor._
+- Solution URL: https://www.frontendmentor.io/solutions/responsive-qr-code-card-using-css-grid-j5NybWshp5
 - Live Site URL: https://qrcode.wizzoviz.dev
 
 ## My process
