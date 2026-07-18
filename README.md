@@ -62,9 +62,9 @@ Overall, the AI tools worked well as learning companions — they helped me unde
 ## Author
 
 - Website - [Joke wizzo](https://www.wizzoviz.tech/)
-- Frontend Mentor - [@Kuach-joke](https://www.frontendmentor.io/profile/Kuach-joke)
-- Twitter - [@stillwizzo](https://x.com/stillwizzo)
-- LinkedIn - [@Kuach John](https://www.linkedin.com/in/kuach-john-565ab62aa/)
+- Frontend Mentor - [Kuach-joke](https://www.frontendmentor.io/profile/Kuach-joke)
+- Twitter - [stillwizzo](https://x.com/stillwizzo)
+- LinkedIn - [Kuach John](https://www.linkedin.com/in/kuach-john-565ab62aa/)
 
 ## Acknowledgments
 
